@@ -1,3 +1,7 @@
+/*
+https://leetcode.com/problems/two-sum/
+*/
+
 // The brute force solution. O(n) = n squared. We can do better.
 class Solution1 {
 public:
